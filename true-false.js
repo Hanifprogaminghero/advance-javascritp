@@ -9,6 +9,7 @@
 //const name = "0"
 
 //truthy
+// '0', ' ', []
 
 let name = [];
 //console.log(name);
